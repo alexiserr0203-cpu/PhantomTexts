@@ -1,6 +1,9 @@
-# mysterious messenger
+# Phantom Texts
 
-A messenger program with many features such as phone calls, text messages, chatrooms, emails, and Visual Novel sections. This is an ongoing project intended to give me practice experimenting with the Ren'Py engine and its capabilities. I maintain a [Mysterious Messenger Discord](https://discord.gg/BPbPcpk) to facilitate discussion, bug reports, and update announcements. You can also find extensive documentation on the program hosted on [Read the Docs](https://mysterious-messenger.readthedocs.io/en/stable/).
+**Phantom Texts** is a narrative-driven visual novel built with **Ren’Py**.  
+Players experience a story through a **text messaging interface**, where eerie and mysterious messages blur the line between reality and fiction.  
+
+This project explores how modern chat-based interactions can be used to deliver immersive storytelling and suspenseful gameplay.
 
 ## Getting Started
 
